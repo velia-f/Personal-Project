@@ -1,4 +1,5 @@
 #primo programma dove uso i principi imparati dal libro Clean Code
+#I created this to improve my studies for the entry test "TOLC" at the college.
 mieRisposteimmagazinate = []
 pcRisposteimmagazinate = []
 risposteSbagliateNum = []
