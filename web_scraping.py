@@ -1,5 +1,5 @@
 import requests, bs4, webbrowser
-from pprint import pprint
+
 cost_link = 'https://www.staseraintv.com/programmi_stasera_'
 possibili_canali = ['canale5.html#pal', 'italia1.html#pal', 'canale20mediaset.html#pal', 'rai4.html#pal', 'iris.html#pal']
 for i in range(0,5):
